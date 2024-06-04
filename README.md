@@ -6,6 +6,8 @@
 
 ###### Deployment: Netlify
 
+###### Partner: [Zuribaby](https://github.com/Zuribaby)
+
 ---
 
 ###### Tech Stack: ReactJS HTML5 & CSS
