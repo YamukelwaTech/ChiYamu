@@ -6,6 +6,8 @@
 
 ###### Deployment: Netlify
 
+###### Get Started with React: [what to do ?](https://github.com/fullstacktutorials/install-reactjs)
+
 ###### Partner: [Zuribaby](https://github.com/Zuribaby)
 
 ---
